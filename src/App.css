@@ -1,0 +1,19 @@
+.stopwatch {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  font-size: 0.8125rem;
+  line-height: 1.25rem;
+}
+
+.startBtn {
+  background: #106ebe;
+  color: white;
+}
